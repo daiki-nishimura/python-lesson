@@ -1,5 +1,4 @@
 # 三角形を表すTriangleクラスを定義して面積を返すareaメソッドを持たせる。そしてTriangleオブジェクトを作ってareaメソッドを呼び出して結果を出力する。
-
 class Triangle():
 
     def __init__(self,b, h):
